@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NathanM9
-- 👀 I’m interested in Cybersecurity and programming
-- 🌱 I’m currently learning Learning CSS and HTML at the moment!
-- 💞️ I’m looking to collaborate on css and html and python
+- 👀 I’m interested in NLP & speech to text models
 - 📫 How to reach me: Github NathanM9
 
 <!---
